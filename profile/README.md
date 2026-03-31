@@ -1,5 +1,3 @@
-# Board Enthusiasts
-
 Board Enthusiasts (BE) is an unofficial hub for the Board ecosystem.
 
 This GitHub organization is where we publish BE code, tools, examples, and contributor-facing resources. For the main website, community updates, and player-facing entry points, start at **[boardenthusiasts.com](https://boardenthusiasts.com/)**.
@@ -8,7 +6,7 @@ This GitHub organization is where we publish BE code, tools, examples, and contr
 
 ### Players
 - Visit **[boardenthusiasts.com](https://boardenthusiasts.com/)** for the latest BE updates and available resources
-- Join the **[BE Discord](https://discord.gg/REPLACE_ME)** for community discussion, help, and feedback
+- Join the **[BE Discord](https://discord.gg/cz2zReWqcA)** for community discussion, help, and feedback
 
 ### Developers
 - Browse the pinned repositories below for active BE tools and supporting projects
@@ -25,13 +23,13 @@ Depending on the project, you may find:
 
 ## Feedback and support
 
-- For general discussion, questions, and community feedback, please use the **[BE Discord](#links)**.
+- For general discussion, questions, and community feedback, please use the **[BE Discord](https://discord.gg/cz2zReWqcA)**.
 - For actionable engineering work, maintainers track implementation in GitHub repositories and projects after triage.
 
 ## Links
 
 - **[Website](https://boardenthusiasts.com/)**
-- **[Discord](https://discord.gg/REPLACE_ME)**
+- **[Discord](https://discord.gg/cz2zReWqcA)**
 - **[BE GPT](https://chatgpt.com/g/g-69b033db223c81919edf748c33b08b3f-board-enthusiast)**
 
 <br/>
