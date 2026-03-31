@@ -1,0 +1,11 @@
+{
+  "name": "Unity CI: EditMode + PlayMode Tests",
+  "description": "Calls the organization’s reusable Unity tests workflow and produces required PR checks.",
+  "iconName": "octicon beaker",
+  "categories": ["Unity", "C#"],
+  "filePatterns": [
+	"^Assets/.*",
+	"^ProjectSettings/.*",
+	"^Packages/.*"
+  ]
+}

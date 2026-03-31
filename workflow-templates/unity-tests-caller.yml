@@ -1,0 +1,28 @@
+name: Unity Tests
+
+on:
+  pull_request:
+    branches: [ $default-branch ]
+  push:
+    branches: [ $default-branch ]
+
+concurrency:
+  group: unity-tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  editmode:
+    name: Unity EditMode Tests
+    uses: board-enthusiasts/.github/.github/workflows/unity-tests.yml@1.0.1
+    with:
+      testMode: editmode
+      projectPath: .
+    secrets: inherit
+
+  playmode:
+    name: Unity PlayMode Tests
+    uses: board-enthusiasts/.github/.github/workflows/unity-tests.yml@1.0.1
+    with:
+      testMode: playmode
+      projectPath: .
+    secrets: inherit
