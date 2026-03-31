@@ -1,0 +1,26 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Board Enthusiasts Website
+    url: https://boardenthusiasts.com/
+    about: Start here for BE updates, resources, and public-facing information.
+
+  - name: BE Community Discord
+    url: https://discord.gg/cz2zReWqcA
+    about: Use Discord for community discussion, general help from the community, and early feedback.
+
+  - name: General Inquiries
+    url: mailto:contact@boardenthusiasts.com
+    about: Use this for general business, partnership, media, or other non-technical inquiries.
+
+  - name: Technical Issues and Support
+    url: mailto:support@boardenthusiasts.com
+    about: Use this for direct technical support requests that should not start as a public GitHub issue.
+
+  - name: Support and Routing Guide
+    url: https://github.com/board-enthusiasts/.github/blob/main/SUPPORT.md
+    about: Not sure where your question belongs? Read the BE support guide.
+
+  - name: Security Reporting
+    url: https://github.com/board-enthusiasts/.github/blob/main/SECURITY.md
+    about: Do not report security vulnerabilities in public issues. Follow the security policy instead.
